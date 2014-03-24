@@ -1,5 +1,9 @@
 == README
 
+This is the learning project of the updated one month rails class. 
+
+And this is the read me template below.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
