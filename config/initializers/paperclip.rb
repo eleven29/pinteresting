@@ -5,4 +5,5 @@ module Paperclip
       false
     end
   end
+  Paperclip::Attachment.default_options[:s3_host_name] = 'temp-pinteresting.s3.amazonaws.com'
 end
